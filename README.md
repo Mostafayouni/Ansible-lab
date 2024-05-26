@@ -51,7 +51,7 @@ Playbook Explanation
 
 
 
-    ![Screenshot 2024-05-26 185404](https://github.com/Mostafayouni/Ansible-lab/assets/105316729/639192ee-959d-4f11-a8f4-57cb9626ab15)
+![Screenshot 2024-05-26 185404](https://github.com/Mostafayouni/Ansible-lab/assets/105316729/639192ee-959d-4f11-a8f4-57cb9626ab15)
 
 
 
