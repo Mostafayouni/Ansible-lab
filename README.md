@@ -14,7 +14,7 @@ This Ansible playbook is used to configure web servers with Apache and Nginx.
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/mostafayounis1/Ansible-lab.git
-   cd your_repository
+   cd Ansible-lab
 
 
 
